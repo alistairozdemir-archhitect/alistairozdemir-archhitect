@@ -1,6 +1,6 @@
 I design and evaluate trading systems at the infrastructure and risk layer.
 
-My work focuses on execution realism, failure prevention, and long-term system survivability —
+My work focuses on execution realism, failure prevention, and long-term system survivability,
 not strategy optimization, indicator tuning, or signal generation.
 
 This GitHub is intentionally used as an architectural reference point, not a code showcase.
