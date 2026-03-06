@@ -1,11 +1,11 @@
-I design and evaluate trading systems at the infrastructure and risk layer.
+I design and evaluate systematic trading systems at the infrastructure and risk layer.
 
-My work focuses on execution realism, failure prevention, and long-term system survivability,
-not strategy optimization, indicator tuning, or signal generation.
+My work focuses on execution realism, failure prevention, and long-term system survivability rather than strategy optimization or signal generation.
 
-This GitHub is intentionally used as an architectural reference point, not a code showcase.
+This repository serves as an architectural and engineering reference for how robust trading systems are designed, validated, and stress-tested.
 
-Pinned repositories document how trading systems fail under real capital,
-imperfect execution, and operational stress, and how to design them to survive.
+Pinned repositories contain engineering artifacts and infrastructure components I designed and built to stress-test trading systems under real capital constraints, imperfect execution, and operational stress.
+
+Production trading systems and proprietary strategy logic are intentionally not included.
 
 
