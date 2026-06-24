@@ -1,11 +1,15 @@
-I design and evaluate systematic trading systems at the infrastructure and risk layer.
+Python engineer focused on backend systems, quantitative trading infrastructure, and reliability engineering.
 
-My work focuses on execution realism, failure prevention, and long-term system survivability rather than strategy optimization or signal generation.
+My work combines software engineering and systematic trading, with projects spanning backend services, portfolio analytics, trading infrastructure, execution realism, and risk management.
 
-This repository serves as an architectural and engineering reference for how robust trading systems are designed, validated, and stress-tested.
+Current areas of focus:
 
-Pinned repositories contain engineering artifacts and infrastructure components I designed and built to stress-test trading systems under real capital constraints, imperfect execution, and operational stress.
+- Python & Go backend development
+- Trading systems engineering
+- Portfolio and risk analytics
+- Event-driven architectures
+- Quantitative trading research
 
-Production trading systems and proprietary strategy logic are intentionally not included.
+Selected repositories include practical engineering projects, infrastructure case studies, and systematic trading research built with a focus on robustness, reliability, and real-world constraints.
 
 
